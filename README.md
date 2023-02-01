@@ -1,12 +1,18 @@
+
 #Maze-Solver
+
 -Java application GUI to solve maze.
 
-#Technologies Used
+
+##Technologies Used
+
 -Java Swing, AWT
 -DFS, BFS Algorithm, graphs
 -Apache NetBeans IDE
 
-#Features
+
+##Features
+
 -Made the application GUI using Java Swing and AWT.
 -Implemented DFS Algorithm to find the path from starting to end point.
 -Implemented BFS Algorithm to find the shortest path from starting to end point.
